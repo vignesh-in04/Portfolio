@@ -27172,7 +27172,7 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that.
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -27182,7 +27182,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I am doing my Bachelor of Engineering in ECE at Anna University, MIT campus. Completed my Diploma in EEE. Passionate about technology and innovation, I am eager to apply my knowledge in practical projects and contribute to the IT sector.";
+ */ const description = "Im doing my Bachelors in Electronics at Anna University, MIT campus. Completed my Diploma in EEE(2021). Passionate about technology and innovation, I am eager to apply my knowledge in practical projects and contribute to the IT sector.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
